@@ -1,0 +1,17 @@
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
